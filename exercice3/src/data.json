@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Roku Express 4K+ 2021 | Streaming Media Player HD/4K/HDR with Smooth Wireless Streaming and Roku Voice Remote with TV Controls",
+      "author": "Roku",
+      "type": "Electronic",
+      "isAvailable": true,
+      "price": 29.99,
+      "oldPrice": 39.99,
+      "shippingPrice": 33.70,
+      "rating": 5,
+      "numberOfRates": 6016,
+      "image": "express.jpg",
+      "isBestSeller" : false
+    },
+    {
+      "id": 2,
+      "name": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PS4, & Xbox - 1-Year Rescue Service (STGX2000400)",
+      "author": "Seagate",
+      "type": "Electronic",
+      "isAvailable": true,
+      "price": 59.99,
+      "oldPrice": 62.99,
+      "shippingPrice": 33.58,
+      "rating": 5,
+      "numberOfRates": 154138,
+      "image": "seagate.jpg",
+      "isBestSeller" : false
+    },
+    {
+      "id": 3,
+      "name": "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Roku Voice Remote with TV Controls",
+      "author": "Roku",
+      "type": "Electronic",
+      "isAvailable": true,
+      "price": 39.99,
+      "oldPrice": 49.99,
+      "shippingPrice": 33.28,
+      "rating": 4,
+      "numberOfRates": 96782,
+      "image": "roku.jpg",
+      "isBestSeller" : false
+    },
+    {
+      "id": 4,
+      "name": "Sceptre E248W-19203R 24\" Ultra Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Metallic Black 2018",
+      "author": "Sceptre",
+      "type": "Electronic",
+      "isAvailable": true,
+      "price": 148.37,
+      "oldPrice": false,
+      "shippingPrice": 90.99,
+      "rating": 5,
+      "numberOfRates": 19940,
+      "image": "sceptre.jpg",
+      "isBestSeller" : true
+    },
+    {
+      "id": 5,
+      "name": "iPhone Charger [Apple MFi Certified] QIRUOZ 5Pack(3/3/6/6/10FT) Compatible iPhone 12Pro Max/12Pro/12/11/Pro/Xs Max/X/8",
+      "author": "QIRUOZ",
+      "type": "Electronic",
+      "isAvailable": true,
+      "price": 12.99,
+      "oldPrice": false,
+      "shippingPrice": 32.11,
+      "rating": 5,
+      "numberOfRates": 11568,
+      "image": "charger.jpg",
+      "isBestSeller" : true
+    },
+    {
+      "id": 6,
+      "name": "Logitech H390 Wired Headset, Stereo Headphones with Noise-Cancelling Microphone, USB, In-Line Controls, PC/Mac/Laptop - Black",
+      "author": "Logitech",
+      "type": "Electronic",
+      "isAvailable": false,
+      "price": 92.99,
+      "oldPrice": false,
+      "shippingPrice": 12.11,
+      "rating": 5,
+      "numberOfRates": 29856,
+      "image": "logitech.jpg",
+      "isBestSeller" : true
+    }
+  ]
+}

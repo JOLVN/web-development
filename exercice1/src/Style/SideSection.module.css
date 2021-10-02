@@ -1,0 +1,14 @@
+.container {
+    width: 308px;
+    background-color: #fff;
+    padding: 20px 15px;
+    padding-top: 0;
+}
+
+.mainTitle {
+    font-weight: 800;
+    font-size: 24px;
+    color: black;
+    padding-bottom: 15px;
+    border-bottom: 1px black solid;
+}

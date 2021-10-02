@@ -1,0 +1,22 @@
+.container {
+    border-bottom: gray solid 0.5px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px 0;
+}
+
+.articleNumber {
+    font-size: 33px;
+    font-weight: 600;
+    color: rgb(0, 146, 127)
+}
+
+.topic {
+    font-weight: 500;
+    font-size: 19px;
+}
+
+.body {
+    font-size: 16px;
+}

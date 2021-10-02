@@ -1,0 +1,36 @@
+.container {
+    padding: 20px 15px;
+    background-color: white;
+    width: 640px;
+}
+
+.mainTitle {
+    font-size: 34px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.image {
+    width: 100%;
+}
+
+.title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.topic, .body {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.topic {
+    color: rgb(74, 38, 233);
+}
+
+.informations {
+    font-size: 16px;
+    color: gray;
+}
+

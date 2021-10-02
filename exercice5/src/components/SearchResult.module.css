@@ -1,0 +1,63 @@
+.name
+{
+  font-weight: 700;
+  margin-top: 20px;
+  font-size: 16px;
+}
+.author
+{
+  color: #333;
+  font-size: 15px;
+  margin-bottom: 7px;
+}
+.product
+{
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 30px;
+}
+
+.image {
+  max-width: 90%;
+  max-height: 180px;
+}
+
+.price {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.shippingPrice {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.rating {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 5px;
+}
+
+.stars {
+  display: flex;
+  gap:2px;
+}
+
+.rating img {
+  height: 10px;
+}
+
+.numberOfRates {
+  font-size: 13px;
+  color: rgb(86, 139, 255);
+  margin-left: 5px;
+}
+
+.bestSellerTag {
+  background-color: rgb(209, 138, 6);
+  color: white;
+  font-size: 13px;
+  padding: 10px;
+  width: 60px;
+  margin-bottom: 20px;
+}

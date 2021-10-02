@@ -1,0 +1,52 @@
+.headerBackground {
+    background-color: rgba(0,25,76,1);
+    padding: 25px 0;
+}
+
+.mainContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    gap: 20px;
+}
+
+.brand {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.nav {
+    list-style-type: none;
+    display:flex;
+    gap: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navElement {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+.navElementSelected {
+    padding: 7px 25px;
+    background-color: #fff;
+    border-radius: 30px;
+    color: black;
+}
+
+.menuBurger {
+    height: 18px;
+}
